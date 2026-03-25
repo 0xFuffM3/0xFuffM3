@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ6dGJ6bnh3ZTdub2l1cW04MmxxeWpxaWQybWU3N2FnMXZjYTMzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif"/>
+<img align="right" width="345" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ6dGJ6bnh3ZTdub2l1cW04MmxxeWpxaWQybWU3N2FnMXZjYTMzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif"/>
 
 ```bash
 ╔══════════════════════════════════════════╗
@@ -52,7 +52,6 @@
 <p align="">
   <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" height="45">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" height="45">
-  <img src="https://img.shields.io/badge/Vulnlab-FFC0CB?style=for-the-badge&logo=vulnlab&logoColor=pink" height="45">
   <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="45">
  
 </p>
