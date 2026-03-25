@@ -60,17 +60,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xFuffM3&show_icons=true&theme=merko" height="180">
-  <img src="https://streak-stats.demolab.com?user=0xFuffM3&theme=merko" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xFuffM3&show_icons=true&theme=merko&hide_border=true" height="165">
+  <img src="https://streak-stats.demolab.com?user=0xFuffM3&theme=merko&hide_border=true" height="165">
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFuffM3&layout=compact&theme=merko" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xFuffM3&layout=compact&theme=merko&hide_border=true" height="130">
 </p>
-
 <div align="">
 
 > *"The system wasn't built to be secure. It was built to work."*
+
 
 
 </div>
